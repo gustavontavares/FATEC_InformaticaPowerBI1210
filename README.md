@@ -3,6 +3,7 @@
 # Análise de Acidentes de transito no ano de 2024 - Power BI
 
 1 - Análise de Acidentes Fatais:
+
 <img src="Vitimas Fatais.png" width="70%" height="70%">
 
 2 - "Mapa de calor" da América do Sul, com foco no Brasil, com a atual situação dos acidentes:
