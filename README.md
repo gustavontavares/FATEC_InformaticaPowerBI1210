@@ -1,6 +1,7 @@
 # FATEC - Apresentação (Informática 12.10.2024)
 
 # Análise de Acidentes de transito no ano de 2024 - Power BI
+
 1 - Análise de Acidentes Fatais:
 <img src="Vitimas Fatais.png" width="70%" height="70%">
 
